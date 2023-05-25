@@ -147,6 +147,7 @@ p {
 .button {
     background-color: #219ebc;
     border: none;
+    border-radius: .25rem;
     color: #fdfdfd;
     padding: 1rem 4rem;
     margin-top: 1.5rem;
